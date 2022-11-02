@@ -5,7 +5,7 @@ for(let i=1;i<=N;i++){
         fact++
     }
 }
-if(fact==3){
+if(fact==2){
     console.log(N+" is prime number")
 }else{
     console.log(N+" is not prime number")
